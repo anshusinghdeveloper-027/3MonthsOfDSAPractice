@@ -5,6 +5,7 @@ public class DivideArray {
     public static void main(String[] args) {
         int []nums={3,2,3,2,2,2};
         System.out.println("Result :"+divideArray(nums));
+        int x=Integer.M
 
     }
 
